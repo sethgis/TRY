@@ -38,19 +38,12 @@ perennial conditions often juggling between the arid and semi-arid zones,
 experiences of frequent droughts and crop fail in one out of every three seasons. 
 With predominant farmers being smallholder, owning
 
-Literature Review
-==================
-Agriculture forms part of the biggest revenue generators in Kenya, making it the back bone 
-of Kenya’s economy accounting for 25% of the gross domestic product (GDP), 
-at the same time accounting for more than 65% of Kenya’s total exports. 
-The sector has grown to be one of the biggest employers for the massive 
-youthful population in Kenya. However, the sector has been facing a plethora 
-of challenges over the years, and as such has never reached its optimal performance. 
-One of the major setbacks that has affected the countries agricultural zones, 
-is the over dependency on the bimodal rainfall pattern in the country for cultivation,
- with the remaining areas mostly experiencing perennial conditions often juggling between 
-the arid and semi-arid zones, experiences of frequent droughts and crop fail in one out of 
-every three seasons. With predominant farmers being smallholder, owning
+.. image:: https://github.com/sethgis/WeMAST_LTG2-Documentation/blob/edc995148c762c6b53130c472582f172299768f2/Images/COUNTRY.png
+  :width: 400
+  :alt: A picture
+
+
+
 
 Literature Review
 ==================
@@ -79,6 +72,22 @@ is the over dependency on the bimodal rainfall pattern in the country for cultiv
  with the remaining areas mostly experiencing perennial conditions often juggling between 
 the arid and semi-arid zones, experiences of frequent droughts and crop fail in one out of 
 every three seasons. With predominant farmers being smallholder, owning
+
+Literature Review
+==================
+Agriculture forms part of the biggest revenue generators in Kenya, making it the back bone 
+of Kenya’s economy accounting for 25% of the gross domestic product (GDP), 
+at the same time accounting for more than 65% of Kenya’s total exports. 
+The sector has grown to be one of the biggest employers for the massive 
+youthful population in Kenya. However, the sector has been facing a plethora 
+of challenges over the years, and as such has never reached its optimal performance. 
+One of the major setbacks that has affected the countries agricultural zones, 
+is the over dependency on the bimodal rainfall pattern in the country for cultivation,
+ with the remaining areas mostly experiencing perennial conditions often juggling between 
+the arid and semi-arid zones, experiences of frequent droughts and crop fail in one out of 
+every three seasons. With predominant farmers being smallholder, owning
+
+
 
 Rationale and Objectives behind CAMISTM
 ======================================================
