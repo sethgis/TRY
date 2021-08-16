@@ -38,7 +38,7 @@ perennial conditions often juggling between the arid and semi-arid zones,
 experiences of frequent droughts and crop fail in one out of every three seasons. 
 With predominant farmers being smallholder, owning
 
-.. image:: https://github.com/sethgis/WeMAST_LTG2-Documentation/blob/edc995148c762c6b53130c472582f172299768f2/Images/COUNTRY.png
+.. image:: https://github.com/sethgis/TRY/blob/a2a595484f43a41c423e47f6ddfa420952308063/Samburu.JPG
   :width: 400
   :alt: A picture
 
